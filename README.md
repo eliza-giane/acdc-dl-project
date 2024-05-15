@@ -20,7 +20,7 @@ O. Bernard, A. Lalande, C. Zotti, F. Cervenansky, et al.
 
 **Running the Model**
 
-Please downlaod the dataset at the following [link](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb/folder/637218e573e9f0047faa00fc). Then upload the dataset to Google Drive and move it under the directory MyDrive and then rename the folder "ACDC-Challenge". Otherwise, update the variable "dataDir" with your local file path to the database folder. 
+Please download the dataset at the following [link](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb/folder/637218e573e9f0047faa00fc). Then upload the dataset to Google Drive and move it under the directory MyDrive and then rename the folder "ACDC-Challenge". Otherwise, update the variable "dataDir" with your local file path to the database folder. 
 
 If you have not done this (please only do it once), uncomment the cell to convert the existing files into jpeg files that we will utilize later. 
 
