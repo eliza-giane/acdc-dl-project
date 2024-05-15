@@ -19,6 +19,7 @@ O. Bernard, A. Lalande, C. Zotti, F. Cervenansky, et al.
 "Deep Learning Techniques for Automatic MRI Cardiac Multi-structures Segmentation and Diagnosis: Is the Problem Solved ?" in IEEE Transactions on Medical Imaging, vol. 37, no. 11, pp. 2514-2525, Nov. 2018, doi: 10.1109/TMI.2018.2837502
 
 **Running the Model**
+
 Please downlaod the dataset at the following [link](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb/folder/637218e573e9f0047faa00fc). Then upload the dataset to Google Drive and move it under the directory MyDrive and then rename the folder "ACDC-Challenge". Otherwise, update the variable "dataDir" with your local file path to the database folder. 
 
 If you have not done this (please only do it once), uncomment the cell to convert the existing files into jpeg files that we will utilize later. 
