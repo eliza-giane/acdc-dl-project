@@ -13,7 +13,6 @@ This project was prompted by the challenge (found [here](https://www.creatis.ins
 
   <!-- and the provided code for handling .nii files is found [here](https://www.creatis.insa-lyon.fr/Challenge/acdc/code/metrics_acdc.py). -->
 
-\\
 **Any use of the ACDC database requires the following citation:**
 
 O. Bernard, A. Lalande, C. Zotti, F. Cervenansky, et al.
